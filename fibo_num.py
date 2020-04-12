@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 Fn = [1, 1]
 N = int(input('fibonacci number? : '))
 for i in range(2, N):
