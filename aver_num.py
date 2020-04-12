@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 N = int(input('input : '))
 
 print(type(N))
